@@ -15,7 +15,7 @@
                                   [proto-repl "0.3.1"]
                                   [proto-repl-charts "0.3.1"]
                                   [proto-repl-sayid "0.1.3"]
-                                  [com.cemerick/pomegranate "0.3.1"]]
+                                  [com.cemerick/pomegranate "1.0.0"]]
                    :repl-options {:init-ns user
                                   :init (start)
                                   :caught clj-stacktrace.repl/pst+}
