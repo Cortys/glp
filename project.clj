@@ -2,7 +2,8 @@
   :description "Experiments with genetic logic programming."
 
   :dependencies [[org.clojure/clojure "1.9.0"]
-                 [org.clojure/core.logic "0.8.11"]]
+                 [org.clojure/core.logic "0.8.11"]
+                 [klapaucius "0.1.29"]]
 
   :plugins [[lein-codox "0.10.3"]]
   :codox {:output-path "docs"}
